@@ -18,7 +18,7 @@ Download the data and read it in R by using the command:
 camera <- read.csv("your directory")
 facebook <- read.csv("your directory")
 ```
-where "your directory" is the pathname of the data file (names corresponding to variable names.
+where "your directory" is the pathname of the data file (names corresponding to variable names).
 
 ## Status
 This project is completed.
